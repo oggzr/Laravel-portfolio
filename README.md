@@ -3,7 +3,7 @@
 Just a school project when we were learning the PHP framework laravel. Notice that this is not a finished project but it got the basic structure with a build in admin panel for editing projects.
 
 ## Notice
-This project is far from done, and the database structure is not that well planed, but this project had to be dont in 3 days, but it will be updated soon.
+This project is far from done, and the database structure is not that well planed, but this project had to be done in 3 days, but it will be updated soon.
 
 ### Installing
 
